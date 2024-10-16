@@ -1,0 +1,20 @@
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\ЧМ\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.AssemblyReference.cache
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\ЧМ\physicheskayazadacha\x64\Debug\physicheskayazadacha.MyForm.resources
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\ЧМ\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.GenerateResource.cache
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\ЧМ\physicheskayazadacha\x64\Debug\physicheskayazadacha.exe
+C:\Users\Super\Downloads\Telegram Desktop\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.AssemblyReference.cache
+C:\Users\Super\Downloads\Telegram Desktop\physicheskayazadacha\x64\Debug\physicheskayazadacha.MyForm.resources
+C:\Users\Super\Downloads\Telegram Desktop\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.GenerateResource.cache
+C:\Users\Super\Downloads\Telegram Desktop\physicheskayazadacha\x64\Debug\physicheskayazadacha.exe
+D:\Чм\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.AssemblyReference.cache
+D:\Чм\physicheskayazadacha\x64\Debug\physicheskayazadacha.MyForm.resources
+D:\Чм\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.GenerateResource.cache
+D:\Чм\physicheskayazadacha\x64\Debug\physicheskayazadacha.exe
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.AssemblyReference.cache
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\physicheskayazadacha\x64\Debug\physicheskayazadacha.MyForm.resources
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.GenerateResource.cache
+C:\Users\liza0\OneDrive\Рабочий стол\Университет\physicheskayazadacha\x64\Debug\physicheskayazadacha.exe
+C:\Users\Super\Desktop\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.AssemblyReference.cache
+C:\Users\Super\Desktop\physicheskayazadacha\x64\Debug\physicheskayazadacha.MyForm.resources
+C:\Users\Super\Desktop\physicheskayazadacha\x64\Debug\physicheskayazadacha.vcxproj.GenerateResource.cache
+C:\Users\Super\Desktop\physicheskayazadacha\x64\Debug\physicheskayazadacha.exe
